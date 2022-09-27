@@ -4,8 +4,8 @@ require 'rails_helper'
 RSpec.describe Product, type: :model do
   describe 'Validations' do
 
-    it "" do
-
+    it "creates valid user" do
+      
     end
 
     # Must have password and password validations
