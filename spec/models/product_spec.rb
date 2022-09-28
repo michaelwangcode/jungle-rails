@@ -1,4 +1,7 @@
 require 'rails_helper'
+# run tests with command: bin/rspec
+
+
 
 RSpec.describe Product, type: :model do
   describe 'Validations' do
