@@ -1,6 +1,49 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+Jungle is a mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+
+
+## Screenshots
+
+
+### Home Page
+
+The home page consists of a large banner, navigation bar and list of products.
+
+![Screenshot]()
+
+
+### Shopping Cart
+
+Users can add items to their shopping cart and check out using a credit card.
+When the shopping cart is empty, a message is displayed.
+
+![Screenshot]()
+
+
+### Sign Up
+
+Users can sign up for an account.
+The app checks to make sure the email is unique and the password is 8 or more characters.
+
+![Screenshot]()
+
+
+### Admin: Product List
+
+Admins have the ability to add and remove products, as well as categories.
+
+![Screenshot]()
+
+
+### Admin: Add New Product
+
+New products can be added from this form in the Admin section.
+
+![Screenshot]()
+
+
+
 
 ## Setup
 
@@ -29,3 +72,5 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+- RSpec
+- Bcrypt
