@@ -10,7 +10,7 @@ Jungle is a mini e-commerce application built with Rails 6.1 for purposes of tea
 
 The home page consists of a large banner, navigation bar and list of products.
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/michaelwangcode/jungle-rails/8b04036b13e55369509cfe1135581c95f14fbdbb/assets/Home.png)
 
 
 ### Shopping Cart
@@ -18,7 +18,7 @@ The home page consists of a large banner, navigation bar and list of products.
 Users can add items to their shopping cart and check out using a credit card.
 When the shopping cart is empty, a message is displayed.
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/michaelwangcode/jungle-rails/8b04036b13e55369509cfe1135581c95f14fbdbb/assets/ShoppingCart.png)
 
 
 ### Sign Up
@@ -26,21 +26,21 @@ When the shopping cart is empty, a message is displayed.
 Users can sign up for an account.
 The app checks to make sure the email is unique and the password is 8 or more characters.
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/michaelwangcode/jungle-rails/8b04036b13e55369509cfe1135581c95f14fbdbb/assets/SignUp.png)
 
 
 ### Admin: Product List
 
 Admins have the ability to add and remove products, as well as categories.
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/michaelwangcode/jungle-rails/8b04036b13e55369509cfe1135581c95f14fbdbb/assets/AllProducts.png)
 
 
 ### Admin: Add New Product
 
 New products can be added from this form in the Admin section.
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/michaelwangcode/jungle-rails/8b04036b13e55369509cfe1135581c95f14fbdbb/assets/NewProduct.png)
 
 
 
