@@ -2,9 +2,10 @@
 
 Jungle is a mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+Made during Lighthouse Labs (W09D2).
+
 
 ## Screenshots
-
 
 ### Home Page
 
